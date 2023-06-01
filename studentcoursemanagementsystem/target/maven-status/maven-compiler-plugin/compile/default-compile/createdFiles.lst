@@ -1,0 +1,6 @@
+com\hpe\studentcoursemanagementsystem\service\StudentService.class
+com\hpe\StudentcoursemanagementsystemApplication.class
+com\hpe\studentcoursemanagementsystem\controller\StudentController.class
+com\hpe\studentcoursemanagementsystem\repository\StudentRepository.class
+com\hpe\studentcoursemanagementsystem\service\impl\StudentServiceImpl.class
+com\hpe\studentcoursemanagementsystem\entity\Student.class
